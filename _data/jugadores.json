@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": "Caps",
+        "nacionalidad": "Dinamarca",
+        "equipo_debut": "Enigma Esports",
+        "equipo_actual": "G2 Esports"
+    },
+    {
+        "nombre": "Perkz",
+        "posicion": "Mid Laner",
+        "nacionalidad": "Croacia",
+        "equipo": "N/A"
+    },
+    {
+        "nombre": "Rekkles",
+        "posicion": "ADC",
+        "nacionalidad": "Suecia",
+        "equipo": "N/A"
+    },
+    {
+        "nombre": "Larssen",
+        "posicion": "Mid Laner",
+        "nacionalidad": "Suecia",
+        "equipo": "N/A"
+    },
+    {
+        "nombre": "Hans Sama",
+        "posicion": "ADC",
+        "nacionalidad": "Francia",
+        "equipo": "G2 Esports"
+    },
+    {
+        "nombre": "Elyoya",
+        "posicion": "Jungler",
+        "nacionalidad": "España",
+        "equipo": "MAD Lions KOI"
+    },
+    {
+        "nombre": "Razork",
+        "posicion": "Jungler",
+        "nacionalidad": "España",
+        "equipo": "Fnatic"
+    },
+    {
+        "nombre": "Humanoid",
+        "posicion": "Mid Laner",
+        "nacionalidad": "República Checa",
+        "equipo": "Fnatic"
+    },
+    {
+        "nombre": "Comp",
+        "posicion": "ADC",
+        "nacionalidad": "Grecia",
+        "equipo": "Team Heretics"
+    },
+    {
+        "nombre": "Carzzy",
+        "posicion": "ADC",
+        "nacionalidad": "República Checa",
+        "equipo": "Vitality"
+    },
+    {
+        "nombre": "Upset",
+        "posicion": "ADC",
+        "nacionalidad": "Alemania",
+        "equipo": "N/A"
+    },
+    {
+        "nombre": "BrokenBlade",
+        "posicion": "Top Laner",
+        "nacionalidad": "Alemania",
+        "equipo": "G2 Esports"
+    },
+    {
+        "nombre": "Odoamne",
+        "posicion": "Top Laner",
+        "nacionalidad": "Rumanía",
+        "equipo": "N/A"
+    },
+    {
+        "nombre": "Irrelevant",
+        "posicion": "Top Laner",
+        "nacionalidad": "Alemania",
+        "equipo": "SK Gaming"
+    },
+    {
+        "nombre": "Finn",
+        "posicion": "Top Laner",
+        "nacionalidad": "Noruega",
+        "equipo": "N/A"
+    },
+    {
+        "nombre": "Advienne",
+        "posicion": "Support",
+        "nacionalidad": "Países Bajos",
+        "equipo": "N/A"
+    },
+    {
+        "nombre": "Hylissang",
+        "posicion": "Support",
+        "nacionalidad": "Bulgaria",
+        "equipo": "MAD Lions KOI"
+    },
+    {
+        "nombre": "MikyX",
+        "posicion": "Support",
+        "nacionalidad": "Eslovenia",
+        "equipo": "G2 Esports"
+    }
+]

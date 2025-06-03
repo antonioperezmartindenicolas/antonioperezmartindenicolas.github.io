@@ -1,0 +1,44 @@
+---
+layout: default
+title: PRACTICA JEKYLL-JUGADORES DE LA LEC
+page-title: Última práctica del curso.
+home-title: Implantación de Aplicaciones Web(IAW).
+description: JamStack, GithubPages - Antonio Pérez Martín de Nicolás
+---
+
+{% include header.html %}
+{% include boot.html %}
+<main>
+    {% include title.html %}
+    <ul class="post-list">
+      {% include posts_paginator.html %}
+    </ul>
+</main>
+{% include pageNav.html %}
+<br>
+<table>
+  <tr>
+    <td>Más Jugadores</td>
+    <td>Algunos Entrenadores</td>
+  </tr>
+  <tr>
+    <td>
+      {% for jugadores in site.data.jugadores %} 
+      <h2>{{ jugadores.nombre }}</h2> 
+      <p>{{ jugadores.posicion }}</p> 
+      <p>{{ jugadores.edad }}</p> 
+      <p>{{ jugadores.equipo }}</p> 
+      {% endfor %}
+    </td>
+    <td>
+      {% for entrenadores in site.data.entrenadores %} 
+      <h2>{{ entrenadores.nombre }}</h2> 
+      <p>{{ entrenadores.nacionalidad }}</p> 
+      <p>{{ entrenadores.equipo_debut }}</p> 
+      <p>{{ entrenadores.equipo_actual }}</p> 
+      {% endfor %}
+    </td> 
+  </tr>
+</table>
+
+{% include footer.html %}

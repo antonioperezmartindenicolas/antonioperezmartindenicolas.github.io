@@ -1,0 +1,80 @@
+[
+    {
+        "nombre": "GrabbZ",
+        "nacionalidad": "Alemania",
+        "equipo_debut": "Giants Gaming",
+        "equipo_actual": "KOI"
+    },
+    {
+        "nombre": "Mac",
+        "nacionalidad": "Reino Unido",
+        "equipo_debut": "Fnatic Rising",
+        "equipo_actual": "G2 Esports"
+    },
+    {
+        "nombre": "YamatoCannon",
+        "nacionalidad": "Suecia",
+        "equipo_debut": "MeetYourMakers",
+        "equipo_actual": "N/A"
+    },
+    {
+        "nombre": "Peter Dun",
+        "nacionalidad": "Reino Unido",
+        "equipo_debut": "Origen",
+        "equipo_actual": "Team Heretics"
+    },
+    {
+        "nombre": "Duke",
+        "nacionalidad": "Corea del Sur",
+        "equipo_debut": "Prime",
+        "equipo_actual": "SK Gaming"
+    },
+    {
+        "nombre": "Kaas",
+        "nacionalidad": "Bélgica",
+        "equipo_debut": "Splyce",
+        "equipo_actual": "N/A"
+    },
+    {
+        "nombre": "Attila",
+        "nacionalidad": "Hungría",
+        "equipo_debut": "Misfits Gaming",
+        "equipo_actual": "N/A"
+    },
+    {
+        "nombre": "YoungBuck",
+        "nacionalidad": "Países Bajos",
+        "equipo_debut": "G2 Esports",
+        "equipo_actual": "N/A"
+    },
+    {
+        "nombre": "Jatt",
+        "nacionalidad": "Estados Unidos",
+        "equipo_debut": "Dignitas",
+        "equipo_actual": "N/A"
+    },
+    {
+        "nombre": "Reapered",
+        "nacionalidad": "Corea del Sur",
+        "equipo_debut": "Cloud9",
+        "equipo_actual": "N/A"
+    },
+    {
+        "nombre": "Ssong",
+        "nacionalidad": "Corea del Sur",
+        "equipo_debut": "Longzhu Gaming",
+        "equipo_actual": "N/A"
+    },
+    {
+        "nombre": "Veigar v2",
+        "nacionalidad": "Suecia",
+        "equipo_debut": "Excel Esports",
+        "equipo_actual": "N/A"
+    },
+    {
+        "nombre": "Nelson",
+        "nacionalidad": "Francia",
+        "equipo_debut": "Schalke 04 Esports",
+        "equipo_actual": "MAD Lions"
+    }
+]

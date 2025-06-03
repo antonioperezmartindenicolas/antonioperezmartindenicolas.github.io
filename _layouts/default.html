@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+{% include head.html %}
+</head>
+<body>
+{{ content }}
+
+<script src="/assets/js/wow.js"></script>
+<script>
+    var wow = new WOW({
+        boxClass: 'wow',
+        animateClass: 'animated',
+        mobile: true,
+        live: true
+    });
+    wow.init();
+</script>
+<script>
+    window.onbeforeunload = function(){
+        document.documentElement.scrollTop = 0;  
+        document.body.scrollTop = 0;  
+    }
+</script>
+
+</body>
+</html>
