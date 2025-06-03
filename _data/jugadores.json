@@ -1,9 +1,9 @@
 [
     {
         "nombre": "Caps",
-        "nacionalidad": "Dinamarca",
-        "equipo_debut": "Enigma Esports",
-        "equipo_actual": "G2 Esports"
+        "posicion": "Mid Laner",
+        "nacionalidad": "Danesa",
+        "equipo": "G2 Esports"
     },
     {
         "nombre": "Perkz",
@@ -15,13 +15,13 @@
         "nombre": "Rekkles",
         "posicion": "ADC",
         "nacionalidad": "Suecia",
-        "equipo": "N/A"
+        "equipo": "Los ratones"
     },
     {
         "nombre": "Larssen",
         "posicion": "Mid Laner",
         "nacionalidad": "Suecia",
-        "equipo": "N/A"
+        "equipo": "Rogue"
     },
     {
         "nombre": "Hans Sama",
