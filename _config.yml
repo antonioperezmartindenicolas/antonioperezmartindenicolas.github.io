@@ -20,7 +20,7 @@ webtitle: 'LEC'
 bio: 'Biografía'
 about: true
 aboutyou: 'Jekyll con JamStack'
-portraits: '/assets/rm.png' 
+portraits: '/assets/lec.png' 
 
 SNS: true
 SNS-icon: 
@@ -52,7 +52,7 @@ highlighter: rouge
 pygmentsTheme: 'default'
 
 friends:
-  Pablo: 'https://github.com/antonioperezmartindenicolas'
+  Antonio: 'https://github.com/antonioperezmartindenicolas'
   
 
 disqus: false
