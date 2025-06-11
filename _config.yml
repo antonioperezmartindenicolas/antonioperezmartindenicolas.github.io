@@ -17,7 +17,9 @@ author: true
 name: 'Antonio Pérez Martín De Nicolás'
 NickName: 'Antonio'
 webtitle: 'LEC'
-bio: 'Biografía'
+bio: 'Estudiante de 2º de ASIR'
+about: true
+aboutyou: 'A por todas en el examen, se confía🙏.'
 about: true
 aboutyou: 'Jekyll con JamStack'
 portraits: '/assets/lec.png' 
