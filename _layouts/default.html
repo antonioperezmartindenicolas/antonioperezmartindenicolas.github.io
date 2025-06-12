@@ -1,27 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-{% include head.html %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
 </head>
 <body>
-{{ content }}
 
-<script src="/assets/js/wow.js"></script>
-<script>
-    var wow = new WOW({
-        boxClass: 'wow',
-        animateClass: 'animated',
-        mobile: true,
-        live: true
-    });
-    wow.init();
-</script>
-<script>
-    window.onbeforeunload = function(){
-        document.documentElement.scrollTop = 0;  
-        document.body.scrollTop = 0;  
-    }
-</script>
+    {% if page.custom_header %}
+        {% include header_shared.html %}
+    {% endif %}
 
-</body>
+    {% include menu.html %}
+
+    <main>
+        {{ content }}
+    </main>
+
+    {% if page.footer == "shared" %}
+        {% include footer_shared.html %}
+    {% elsif page.footer == "page3" %}
+        {% include footer_3.html %}
+    {% endif %}
+    </body>
 </html>
